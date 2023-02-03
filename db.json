@@ -6,7 +6,7 @@
         "name": "จี่แป้งไส้ทะลัก",
         "description": "ปังปิ้ง กาแฟ boncafe",
         "image_url": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
-        "category_menus": ["", ""]
+        "category_menus": ["Menu1", "Menu2"]
       },
       {
         "id": 2,

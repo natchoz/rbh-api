@@ -5,41 +5,65 @@
         "id": 1,
         "name": "จี่แป้งไส้ทะลัก",
         "description": "ปังปิ้ง กาแฟ boncafe",
-        "image_url": ""
+        "image_url": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 2,
         "name": "Mycafe at room",
         "description": "มีเมนูครอฟเฟิล และอาหารอิ่มท้อง",
-        "image_url": ""
+        "image_url": "",
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 3,
         "name": "R-Liu กาแฟสด",
         "description": "กาแฟสด รสชาติดี ราคาถูกใจ",
-        "image_url": ""
+        "image_url": "",
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 4,
         "name": "คาลิโค่ พรีเมี่ยม คอฟฟี่",
         "description": "ร้านกาแฟสด ที่คัดเกรดวัตถุดิบ โดยคำนึงถึงสุขภาพ",
-        "image_url": ""
+        "image_url": "",
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 5,
         "name": "ครัวคุณปุ๋ม",
         "description": "",
-        "image_url": ""
+        "image_url": "",
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       }
     ],
     "best_chinese_restaurants": [
       {
-      "id": 6,
-      "name": "เอ็มเค บิ๊กซี สุขาภิบาล 5",
-      "description": "",
-      "image_url": "",
-      "distance": "13.2 km.",
-      "rating": 4.7
+        "id": 6,
+        "name": "เอ็มเค บิ๊กซี สุขาภิบาล 5",
+        "description": "",
+        "image_url": "",
+        "distance": "13.2 km.",
+        "rating": 4.7,
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 7,
@@ -47,7 +71,11 @@
         "description": "",
         "image_url": "",
         "distance": "16.0 km.",
-        "rating": 4.6
+        "rating": 4.6,
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 8,
@@ -55,7 +83,11 @@
         "description": "",
         "image_url": "",
         "distance": "23.6 km.",
-        "rating": 4.7
+        "rating": 4.7,
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 9,
@@ -63,7 +95,11 @@
         "description": "",
         "image_url": "",
         "distance": "24.8 km.",
-        "rating": 4.9
+        "rating": 4.9,
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       },
       {
         "id": 10,
@@ -71,7 +107,11 @@
         "description": "",
         "image_url": "",
         "distance": "25.5 km.",
-        "rating": 4.3
+        "rating": 4.3,
+        "category_menus": [
+          "Recommended",
+          "Poppular",
+        ]
       }
     ]
   }

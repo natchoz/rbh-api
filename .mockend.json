@@ -1,23 +1,11 @@
 {
-  "Home": {
-    "notification_count": 3,
-    "banners": [
-      {
-        "id": 1,
-        "image": "https://superman-academy.com/api/findseat/images/banner_1.jpg"
-      },
-      {
-        "id": 2,
-        "image": "https://superman-academy.com/api/findseat/images/banner_2.jpg"
-      },
-      {
-        "id": 3,
-        "image": "https://superman-academy.com/api/findseat/images/banner_3.png"
-      },
-      {
-        "id": 4,
-        "image": "https://superman-academy.com/api/findseat/images/banner_4.jpg"
-      }
-    ]
-  }
+  "recommended_restaurants": [
+    {
+      "id": 1,
+      "name": "จี่แป้งไส้ทะลัก",
+      "description": "ปังปิ้ง กาแฟ boncafe",
+      "image_url": ""
+    }
+  ],
+  "best_chinese_restaurants": []
 }

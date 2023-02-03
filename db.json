@@ -1,11 +1,13 @@
 {
-  "recommended_restaurants": [
-    {
-      "id": 1,
-      "name": "จี่แป้งไส้ทะลัก",
-      "description": "ปังปิ้ง กาแฟ boncafe",
-      "image_url": ""
-    }
-  ],
-  "best_chinese_restaurants": []
+  "restaurant-category": {
+    "recommended_restaurants": [
+      {
+        "id": 1,
+        "name": "จี่แป้งไส้ทะลัก",
+        "description": "ปังปิ้ง กาแฟ boncafe",
+        "image_url": ""
+      }
+    ],
+    "best_chinese_restaurants": []
+  }
 }

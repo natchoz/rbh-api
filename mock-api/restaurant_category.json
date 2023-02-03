@@ -1,4 +1,4 @@
-{
+[{
   "recommended_restaurants": [
     {
       "id": 1,
@@ -74,3 +74,4 @@
     }
   ]
 }
+ ]

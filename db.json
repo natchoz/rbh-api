@@ -5,7 +5,7 @@
         "id": "1",
         "name": "Shinkanzen sushi",
         "description": "",
-        "image_url": "https://images.pexels.com/photos/1108104/pexels-photo-1108104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "image_url": "https://raw.githubusercontent.com/natchoz/rbh-api/main/images/shinkanzensushi_logo.jpeg",
         "category_menus": ["Recommended", "Popular"]
       },
       {

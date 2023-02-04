@@ -2,35 +2,35 @@
   "restaurant-category": {
     "recommended_restaurants": [
       {
-        "id": 1,
-        "name": "จี่แป้งไส้ทะลัก",
-        "description": "ปังปิ้ง กาแฟ boncafe",
-        "image_url": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
+        "id": "1",
+        "name": "Shinkanzen sushi",
+        "description": "",
+        "image_url": "https://images.pexels.com/photos/1108104/pexels-photo-1108104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 2,
+        "id": "2",
         "name": "Mycafe at room",
         "description": "มีเมนูครอฟเฟิล และอาหารอิ่มท้อง",
         "image_url": "",
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 3,
+        "id": "3",
         "name": "R-Liu กาแฟสด",
         "description": "กาแฟสด รสชาติดี ราคาถูกใจ",
-        "image_url": "",
+        "image_url": "https://images.pexels.com/photos/1235706/pexels-photo-1235706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 4,
+        "id": "4",
         "name": "คาลิโค่ พรีเมี่ยม คอฟฟี่",
         "description": "ร้านกาแฟสด ที่คัดเกรดวัตถุดิบ โดยคำนึงถึงสุขภาพ",
-        "image_url": "",
+        "image_url": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 5,
+        "id": "5",
         "name": "ครัวคุณปุ๋ม",
         "description": "",
         "image_url": "",
@@ -39,7 +39,7 @@
     ],
     "best_chinese_restaurants": [
       {
-        "id": 6,
+        "id": "6",
         "name": "เอ็มเค บิ๊กซี สุขาภิบาล 5",
         "description": "",
         "image_url": "",
@@ -48,7 +48,7 @@
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 7,
+        "id": "7",
         "name": "เอ็มเค SF นวมินทร์ ซิี้อเวนิว",
         "description": "",
         "image_url": "",
@@ -57,7 +57,7 @@
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 8,
+        "id": "8",
         "name": "เป็ดย่างบางกะปิ",
         "description": "",
         "image_url": "",
@@ -66,7 +66,7 @@
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 9,
+        "id": "9",
         "name": "Jones'salad สาขาลิวิลล่า",
         "description": "",
         "image_url": "",
@@ -75,7 +75,7 @@
         "category_menus": ["Recommended", "Popular"]
       },
       {
-        "id": 10,
+        "id": "10",
         "name": "ราดหน้านพดล เพชรบุรีซอย 5",
         "description": "",
         "image_url": "",
@@ -89,6 +89,7 @@
     {
       "id": "1",
       "name": "Shinkanzen sushi",
+      "imageUrl": "https://raw.githubusercontent.com/natchoz/rbh-api/main/images/shinkanzensushi_logo.jpeg",
       "categories": [
         {
           "id": "1",
@@ -96,15 +97,15 @@
           "menus": [
             {
               "id": "1",
-              "name": "Set1 ข้วหน้าเนื้อวากิว",
-              "imageUrl": "",
+              "name": "Set1 ข้าวหน้าเนื้อวากิว",
+              "imageUrl": "https://raw.githubusercontent.com/natchoz/rbh-api/main/images/wagyu_don.jpeg",
               "price": 139,
               "active": true
             },
             {
               "id": "2",
               "name": "Set2 ชุดเบนโตะหมู",
-              "imageUrl": "",
+              "imageUrl": "https://images.pexels.com/photos/3297367/pexels-photo-3297367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
               "price": 159,
               "active": true
             }
@@ -130,14 +131,14 @@
             {
               "id": "4",
               "name": "Set A กุ้งดองซีอิ๊วญี่ปุ่น",
-              "imageUrl": "",
+              "imageUrl": "https://raw.githubusercontent.com/natchoz/rbh-api/main/images/shrimp_shoyu.jpeg",
               "price": 199,
               "active": true
             },
             {
               "id": "5",
               "name": "Set ฺB แซลมอนดองซีอิ๊วญี่ปุ่น",
-              "imageUrl": "",
+              "imageUrl": "https://raw.githubusercontent.com/natchoz/rbh-api/main/images/salmon_shoyu.jpeg",
               "price": 249,
               "active": true
             }
